@@ -1,0 +1,11 @@
+<asx version = "3.0">
+	<Title>DOC Radio - Christian Top 40 Hits</Title>
+	<Author>http://docradio.org</Author>
+	<Copyright>http://docradio.org</Copyright>
+
+	<entry>
+		<ref href="http://199.195.194.140:8043/stream" />
+		<Title>DOC Radio - Christian Top 40 Hits</Title>
+		<Author>http://docradio.org</Author>
+	</entry>
+</asx>
