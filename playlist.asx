@@ -4,7 +4,7 @@
 	<Copyright>http://docradio.org</Copyright>
 
 	<entry>
-		<ref href="http://199.195.194.140:8043/stream" />
+		<ref href="http://server10.reliastream.com:8043/stream" />
 		<Title>DOC Radio - Christian Top 40 Hits</Title>
 		<Author>http://docradio.org</Author>
 	</entry>
